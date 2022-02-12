@@ -32,3 +32,9 @@ p {
 hr {
     height: 4px;
 }
+
+.enlace-footer {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+}
